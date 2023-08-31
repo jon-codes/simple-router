@@ -2,6 +2,8 @@
 
 This is the code for a simple React client-side router described below.
 
+To install dependencies, run `npm install`.
+
 To start the development server, run `npm run dev`.
 
 ## Implementation notes
